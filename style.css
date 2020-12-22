@@ -1,0 +1,129 @@
+#jmb{
+    background-color: navy;
+    padding-top: 5px;
+    padding-left: 5px;
+    color: white;
+    
+}
+#lgo{
+    height:100px;
+    width:100px;
+    margin-top: 0;
+    margin-left: 0;
+    display: inline;
+}
+#heading{
+    padding:5px;
+    text-align: center;
+}
+#nav{
+    margin-top: 0;
+}
+.gFnt{
+    font-family: Sofia;
+    margin-top: 30px;
+    text-shadow: 2px 2px 5px green;
+}
+#img1{
+    margin-right: 100px;
+}
+.clg-branch{
+    color:rgb(248, 9, 9);
+    letter-spacing: 3px;
+    text-decoration: underline black;
+}
+.clg-branch2{
+    color:rgb(248, 9, 9);
+    letter-spacing: 3px;
+    text-decoration: underline black;
+}
+.htpnk{
+    color: hotpink;
+
+}
+#jmbo2{
+    background-image:url('banner2.jpg');
+    height:300px
+}
+#clgNm{
+    letter-spacing: 5px;
+    font-family: sofia;
+    text-shadow: 2px 2px 5px;
+    text-decoration: underline;
+}
+#clr{
+    color:rgb(1, 1, 58);
+}
+.one{
+    
+    border:3px solid green;
+    margin: auto;
+    padding: 1px;
+    text-align: center;
+    text-decoration: none;
+}
+.one:hover{
+    font-size: 30px;
+    background-color:rgb(100, 10, 28);
+   
+    
+}
+#fed{
+ margin: 5px;
+ float: left;
+ border-radius: 50%;
+ width:100px;
+ height:100px;
+}
+#nxr{
+    margin-top: 90px;
+}
+.fa{
+   
+}
+.txt{
+    border:1px solid black;
+    padding:15px;
+    height:150px
+}
+#ftr{
+    background-color: lightpink;
+}
+.one{
+    background-color: ;
+   
+}
+.one:a{
+    color:maroon;
+}
+#last{
+    background-color: maroon;
+    color: white;
+    height:50px;
+    padding:10px;
+}
+.sidebar{
+    text-decoration:underline black;
+    color:green;  
+}
+.sidebar:hover{
+    color:black
+}
+#side{
+    margin-top: 20px;
+}
+#sid{
+   border-left:2px dashed;
+    border-radius: 30%;
+    background-color: blanchedalmond;
+
+}
+.onem{
+    text-decoration: none;
+    color: black;
+}
+.onem:hover{
+    background-color: lawngreen;
+    color:navy;
+    text-decoration:none;
+}
